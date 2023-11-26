@@ -93,3 +93,22 @@
   </tr>
 </tbody>
 </table>
+
+<h1>Example:</h1>
+<h2><Input></h2>
+<br> Arrival Time: 2023-11-10 08:00
+<br> Leave Time: 2023-11-12 19:30
+<br> Frequent Parking Number: None
+<h2> Output:</h2>
+<br>Total: $347.00</br>
+
+<br> Arrival Time: 2023-11-10 08:00
+<br> Leave Time: 2023-11-12 19:30
+<br> Frequent Parking Number: 12343
+<h2> Output:</h2>
+<br>Total: Output: $262.3
+
+
+
+
+
